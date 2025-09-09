@@ -1,0 +1,59 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: linear-gradient(180deg, #374151 0%, #111827 100%);
+  color: #fff;
+}
+
+header {
+  margin: 72px 0 72px;
+}
+
+ul {
+  text-decoration: none;
+}
+
+header a {
+  font-weight: 400;
+  font-size: 16px;
+  color: #fff;
+}
+
+h1 {
+  margin: 0 0 30px 0;
+}
+
+.heroHeader {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 38px;
+}
+
+.avatar {
+  padding: 0;
+  margin: 0 0 28px 0;
+}
+
+.avatarHeader {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #fff;
+}
+
+.bigPicture {
+  margin: 0 0 69px 0;
+  padding: 0;
+}
+
+.firstParagraf {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.secondParagraf {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+}

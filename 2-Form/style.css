@@ -1,0 +1,33 @@
+main {
+  background-color: #fffefe;
+  font-family: open-sans;
+}
+
+h1 {
+  color: #333333;
+  font-size: 36px;
+  font-weight: 700;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+placeholder {
+  font-size: 16px;
+  color: #999999;
+}
+
+button {
+  background: #089fe0;
+}
+
+label {
+  font-size: 14px;
+  color: #666666;
+}
+
+a {
+  color: #089fe0;
+}
